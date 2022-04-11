@@ -1,5 +1,5 @@
 # caseApp
-
+* Bu case tam olarak 3 saatte ve tamamiyle özgün olarak tamamlanmıştır.
 * ViewController - Navigation Controller
 * TableView-Cell - Custom Cell
 * Alamofaire
